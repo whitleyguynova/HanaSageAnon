@@ -1,0 +1,8 @@
+{
+  "name": "anonbot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Анонимная предложка в Telegram с модерацией и публикацией в канал",
+  "engines": { "node": ">=18" }
+}
